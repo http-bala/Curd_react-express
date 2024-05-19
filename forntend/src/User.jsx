@@ -29,7 +29,7 @@ const User = () => {
                     <table className="table">
                         <thead>
                             <tr>
-                                <th>Name</th>
+                                <th>Full Name</th>
                                 <th>Email</th>
                                 <th>Age</th>
                                 <th>Action</th>
